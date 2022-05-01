@@ -34,7 +34,7 @@ Click on the name of a plugin or module to view that content's documentation:
 ## Supported Grafana versions
 
 We aim at keeping the last 3 minor versions (at least) of Grafana tested.
-This collection is currently testing the modules against Grafana versions `7.0.6`, `7.1.3` and `8.1.2`.
+This collection is currently testing the modules against Grafana versions `8.2.7`, `8.3.7` and `8.4.7`.
 
 ## Installation and Usage
 
